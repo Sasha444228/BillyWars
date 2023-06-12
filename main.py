@@ -1,6 +1,7 @@
 import arcade as dungeon
 import random
 
+# САЛАМ КАБАНАМ
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN_TITLE = "BillyWars"
